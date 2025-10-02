@@ -10,8 +10,3 @@ I am a passionate learner and tech enthusiast.
 - Data Science
 - Machine Learning
 
-## Ways to Contact
-Feel free to reach out to me via:
-- [Email](priyankachaudhary09112004@gmail.com)
-- [LinkedIn](https://linkedin.com/in/PriyankaChaudhary)
-Thanks for visiting!
