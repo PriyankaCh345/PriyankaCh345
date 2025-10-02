@@ -1,9 +1,9 @@
-# Hello, I'm PriyankaCh345!
+# Hello, I'm Priyanka Chaudhary
 
 Welcome to my profile bio page! I'm excited to share a bit about myself here.
 
 ## Introduction
-I am a passionate learner and tech enthusiast. My journey in the tech world has been both challenging and rewarding.
+I am a passionate learner and tech enthusiast. 
 
 ## Current Learning Interests
 - Web Development
@@ -12,10 +12,6 @@ I am a passionate learner and tech enthusiast. My journey in the tech world has 
 
 ## Ways to Contact
 Feel free to reach out to me via:
-- [Twitter](https://twitter.com/yourusername)
-- [LinkedIn](https://linkedin.com/in/yourusername)
-
-## Portfolio
-Check out my portfolio here: [Your Portfolio Link](https://yourportfolio.com)
-
+- [Email](priyankachaudhary09112004@gmail.com)
+- [LinkedIn](https://linkedin.com/in/PriyankaChaudhary)
 Thanks for visiting!
