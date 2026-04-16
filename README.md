@@ -44,8 +44,8 @@ Welcome to my GitHub profile! I enjoy building projects, learning new technologi
 ---
 
 ## 📫 Connect with Me
-- 💼 LinkedIn: (Add your link here)  
-- 📧 Email: (Add your email here)
+
+- 📧 Email: priyankachaudhary09112004@gmail.com
 
 ---
 
